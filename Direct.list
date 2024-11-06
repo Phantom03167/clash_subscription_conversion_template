@@ -9,4 +9,5 @@
 # SRC-PORT,7777 #匹配数据源端口
 
 
-DOMAIN,rrcdnbf1.com
+DOMAIN-SUFFIX,rrcdnbf1.com
+DOMAIN-SUFFIX,rrcdnbf6.com
