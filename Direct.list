@@ -8,6 +8,7 @@
 # DST-PORT,80 #匹配数据目标端口
 # SRC-PORT,7777 #匹配数据源端口
 
+SRC-PORT,16618
 DOMAIN-SUFFIX,dsxys.com
 DOMAIN-SUFFIX,dsxys.pro
 DOMAIN-SUFFIX,ffzy-online4.com
