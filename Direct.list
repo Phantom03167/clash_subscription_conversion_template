@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,subhd.me
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,trackerslist.com
 DOMAIN-SUFFIX,zimuku.org
+
+# Syncthing
+DOMAIN-SUFFIX,syncthing.net
