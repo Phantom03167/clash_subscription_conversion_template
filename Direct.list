@@ -24,5 +24,3 @@ DOMAIN-SUFFIX,zimuku.org
 
 # Syncthing
 DOMAIN-SUFFIX,syncthing.net
-
-IP-CIDR,107.172.234.238/32
