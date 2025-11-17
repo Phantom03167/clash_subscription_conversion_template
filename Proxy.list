@@ -9,3 +9,5 @@
 # SRC-PORT,7777 #匹配数据源端口
 
 # IP-CIDR,107.172.234.238/32
+
+DOMAIN-SUFFIX,microsoft.com
