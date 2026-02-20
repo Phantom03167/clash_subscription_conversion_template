@@ -10,25 +10,3 @@
 
 
 DOMAIN-SUFFIX,connectreadoasis.com
-# DOMAIN-KEYWORD,cupfox
-DOMAIN-SUFFIX,dsxys.com
-DOMAIN-SUFFIX,dsxys.pro
-DOMAIN-SUFFIX,eftarkov.com
-DOMAIN-KEYWORD,ffzy
-DOMAIN-KEYWORD,gameapi
-DOMAIN-SUFFIX,huazai.store
-DOMAIN-SUFFIX,rrcdnbf1.com
-DOMAIN-SUFFIX,rrcdnbf6.com
-DOMAIN-SUFFIX,srtku.com
-DOMAIN-SUFFIX,subhd.cc
-DOMAIN-SUFFIX,subhd.me
-DOMAIN-SUFFIX,subhd.tv
-DOMAIN-SUFFIX,teacupfox.org
-DOMAIN-SUFFIX,trackerslist.com
-# DOMAIN-REGEX,^wxapi.*net.com
-DOMAIN-SUFFIX,zimuku.org
-
-# Syncthing
-DOMAIN-SUFFIX,syncthing.net
-
-# IP-CIDR,107.172.0.0/16
